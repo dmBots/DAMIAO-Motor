@@ -2,11 +2,13 @@
 
 English|[中文](https://github.com/dmBots/DaMiao-Motor/blob/main/README.md)
 
-## Introduction
+## DAMIAO-Tool
 
+[Motor debugging tool](https://github.com/dmBots/DaMiao-Motor/blob/main/DM_Tool/DM-TOOL-V1.6.6.2-240323.exe)
 
+[DM-CAN Tool](https://github.com/dmBots/DaMiao-Motor/blob/main/DM_Tool/DM-AcTools_V2.0.0.3.exe)
 
-## DaMiao motor Repository
+## DAMIAO motor Repository
 
 [DAMIAO 4310 Document](https://github.com/dmBots/DM-J4310-2EC)
 
