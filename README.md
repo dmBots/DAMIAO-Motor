@@ -1,6 +1,6 @@
 # DAMIAO|达妙科技
 
-English|中文
+[English](https://github.com/dmBots/DaMiao-Motor/blob/main/README_EN.md)|中文
 
 ## 达妙电机介绍
 
