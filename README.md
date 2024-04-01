@@ -4,7 +4,9 @@
 
 ## 达妙调试工具
 
+[达妙电机调试工具](https://github.com/dmBots/DaMiao-Motor/blob/main/DM_Tool/DM-TOOL-V1.6.6.2-240323.exe)
 
+[DM-CAN上位机](https://github.com/dmBots/DaMiao-Motor/blob/main/DM_Tool/DM-AcTools_V2.0.0.3.exe)
 
 ## 达妙电机使用文档
 
